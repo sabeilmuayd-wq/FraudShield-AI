@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+sqlite3
+datetime
