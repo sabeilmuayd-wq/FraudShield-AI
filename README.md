@@ -1,2 +1,0 @@
-# FraudShield-AI
-FraudShield AI
